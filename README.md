@@ -1,12 +1,61 @@
-# React + Vite
+# 🚀 Next-Level Portfolio - Nilesh Pulate  
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![Portfolio Screenshot](https://via.placeholder.com/1200x600?text=Next-Level+Portfolio)  
 
-Currently, two official plugins are available:
+## 🌟 Overview  
+Welcome to **Next-Level Portfolio** – a **fully animated, modern, and professional** portfolio website showcasing my skills, projects, and experience. This portfolio is built using **React, TailwindCSS, Framer Motion, and Vite** for ultra-fast performance.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🎯 Features  
+✅ **Stunning UI/UX with Modern Design**  
+✅ **Dark & Light Mode** (Smooth Toggle)  
+✅ **Framer Motion Animations** (Smooth transitions)  
+✅ **Optimized for Performance & SEO**  
+✅ **Dynamic Sections: Home, Education, Projects, Skills, Experience, Resume, Contact**  
+✅ **Futuristic Glow & Hover Effects**  
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📸 **Preview**  
+🔗 **[Live Demo](https://your-portfolio-link.com)** *(Replace with your hosted link)*  
+
+### 🏠 **Home Page**
+- Animated **intro with glow effects**  
+- Smooth **profile picture hover animation**  
+
+### 🎓 **Education**
+- Displays my **academic qualifications**  
+
+### 💻 **Projects**
+- Showcases my **top projects** with descriptions & GitHub links  
+- Hover effect & smooth animations  
+
+### ⚡ **Skills**
+- Categorized **technical skills with icons**  
+
+### 🛠 **Experience**
+- Work history with **animated timeline**  
+
+### 📄 **Resume**
+- Direct **download link** to my resume  
+
+### 📞 **Contact**
+- My **LinkedIn, Email, and Phone Number**  
+
+---
+
+## 🚀 **Installation & Setup**
+### **1️⃣ Clone the Repository**
+```sh
+git clone https://github.com/N8758/next-level-portfolio.git
+cd next-level-portfolio
+2️⃣ Install Dependencies
+sh
+Copy
+Edit
+npm install
+3️⃣ Start Development Server
+sh
+Copy
+Edit
+npm run dev
+(Runs on http://localhost:5173/ by default)
