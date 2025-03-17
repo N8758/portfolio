@@ -1,0 +1,53 @@
+/* ✅ Full-Screen Modern Home Page */
+.home-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  padding: 20px;
+  background: linear-gradient(to right, #0f2027, #203a43, #2c5364);
+  color: white;
+  text-align: center;
+  flex-direction: column;
+}
+
+/* ✅ Animated Heading */
+.home-title {
+  font-size: 3rem;
+  font-weight: bold;
+  background: linear-gradient(to right, #ff512f, #dd2476);
+  -webkit-background-clip: text;
+  color: transparent;
+  animation: fadeIn 1s ease-in-out;
+}
+
+.home-title span {
+  color: #ffd700;
+}
+
+/* ✅ Typing Effect Subtitle */
+.home-subtitle {
+  font-size: 1.3rem;
+  margin-top: 10px;
+  animation: fadeIn 1.2s ease-in-out;
+}
+
+/* ✅ Profile Picture */
+.profile-pic {
+  width: 180px;  /* ✅ Smaller Size */
+  height: 180px;
+  border-radius: 50%;
+  margin-top: 15px;
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.5);
+  transition: transform 0.3s;
+}
+
+.profile-pic:hover {
+  transform: scale(1.05);
+}
+
+/* ✅ Keyframes */
+@keyframes fadeIn {
+  0% { opacity: 0; transform: translateY(-10px); }
+  100% { opacity: 1; transform: translateY(0); }
+}

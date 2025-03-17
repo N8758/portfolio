@@ -1,0 +1,37 @@
+[
+  {
+    "name": "PDF Malware Detection",
+    "description": "Detects malicious PDFs using AI & ML.",
+    "link": "https://github.com/N8758/PDF-MALWARE-DETECTION"
+  },
+  {
+    "name": "Salon Appointment System",
+    "description": "Online booking system for salons.",
+    "link": "https://github.com/N8758/Salone-Appointment-System"
+  },
+  {
+    "name": "Gym Tracking Application",
+    "description": "Tracks gym progress in real time.",
+    "link": "https://github.com/N8758/gym-tracker.app"
+  },
+  {
+    "name": "Recipe Finder",
+    "description": "Search for recipes using ingredients and dietary preferences.",
+    "link": "https://github.com/N8758/Finder-Recipe"
+  },
+  {
+    "name": "Quote of The Day",
+    "description": "Displays a daily quote with an author search option.",
+    "link": "https://github.com/N8758/Quote-of-day"
+  },
+  {
+    "name": "AI Personal Finance Assistant",
+    "description": "Helps track budget and expenses using AI.",
+    "link": "https://github.com/N8758/financial-planning"
+  },
+  {
+    "name": "Email Marketing Assistant",
+    "description": "Optimizes email campaigns using AI analysis.",
+    "link": "https://github.com/N8758/Email-Marketing-Flowchart"
+  }
+]

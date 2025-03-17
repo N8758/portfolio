@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Smooth Transitions */
+* {
+  transition: all 0.3s ease-in-out;
+}
+
+/* Glassmorphism Effect */
+.glass {
+  background: rgba(255, 255, 255, 0.1);
+  backdrop-filter: blur(10px);
+  border-radius: 15px;
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  padding: 20px;
+}
+
+/* Dark Mode Support */
+body {
+  @apply bg-gray-100 dark:bg-gray-900 text-gray-900 dark:text-white;
+}
